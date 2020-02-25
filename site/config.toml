@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://silkwater.netlify.com"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
